@@ -1,0 +1,16 @@
+# Backend (Django)
+backend/venv/
+backend/__pycache__/
+backend/*.sqlite3
+backend/.env
+
+# Frontend (Node/React/Vue - pré-configuração)
+frontend/node_modules/
+frontend/.env
+frontend/dist/
+frontend/.cache/
+
+# Geral
+.DS_Store
+.idea/
+.vscode/
